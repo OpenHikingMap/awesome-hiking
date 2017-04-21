@@ -12,6 +12,6 @@ The aim of this list is to collect resources helpful to plan your next hike.
 
 ### Digital Elevation Models
 
-### DEM Utilities
+#### DEM Utilities
 
 * [bopen/elevation](https://github.com/bopen/elevation) Python script to download global terrain digital elevation models
