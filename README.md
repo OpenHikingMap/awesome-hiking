@@ -16,7 +16,15 @@ The aim of this list is to collect resources helpful to plan your next hike.
 
 #### DEM Utilities
 
-* [bopen/elevation](https://github.com/bopen/elevation) Python script to download global terrain digital elevation models
+- [bopen/elevation](https://github.com/bopen/elevation) Python script to download global terrain digital elevation models
+
+#### OpenStreetMap Utilities
+
+- http://osmcode.org/
+
+### Online Data
+
+- http://openstreetmapdata.com/data
 
 
 ### Online Maps
@@ -25,7 +33,3 @@ The aim of this list is to collect resources helpful to plan your next hike.
 
 - [Brenta Dolomites](http://brenta.webmapp.it/) high quality map by [Webmapp.it](http://webmapp.it/)
 - [Eastern Dolomites](http://dolomiti.webmapp.it/) high quality map by [Webmapp.it](http://webmapp.it/)
-
-### Online Data
-
-- http://openstreetmapdata.com/data
