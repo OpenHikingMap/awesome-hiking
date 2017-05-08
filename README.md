@@ -8,6 +8,8 @@ The aim of this list is to collect resources helpful to plan your next hike.
 
 - [Digital Elevation Models](#digital-elevation-models)
   - [DEM utilities](#dem-utilities)
+- [Geo Data (Areas, POI etc.)(#geo-data)
+  - [OpenStreetMap](#openstreetmap)
 - [Online Maps](#online-maps)
   - [Dolomites](#dolomites)
 
@@ -18,14 +20,14 @@ The aim of this list is to collect resources helpful to plan your next hike.
 
 - [bopen/elevation](https://github.com/bopen/elevation) Python script to download global terrain digital elevation models
 
-#### OpenStreetMap Utilities
+### Geo Data
 
-- http://osmcode.org/
+#### OpenStreetMap
 
-### Online Data
-
-- http://openstreetmapdata.com/data
-
+- [OpenStreetMap Main Project](https://www.openstreetmap.org/)
+- [OSM Code](http://osmcode.org/) Open Source Software for Working with OpenStreetMap Data
+- [OSM Data](http://openstreetmapdata.com/data) OSM-derived datasets
+- [OSM Hiking](http://wiki.openstreetmap.org/wiki/Hiking) ways, points, areas and relations related to hiking
 
 ### Online Maps
 
