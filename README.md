@@ -8,7 +8,7 @@ The aim of this list is to collect resources helpful to plan your next hike.
 
 - [Digital Elevation Models](#digital-elevation-models)
   - [DEM utilities](#dem-utilities)
-- [Geo Data (Areas, POI etc.)(#geo-data)
+- [Geo Data (Areas, POI etc.)](#geo-data)
   - [OpenStreetMap](#openstreetmap)
 - [Online Maps](#online-maps)
   - [Dolomites](#dolomites)
