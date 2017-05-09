@@ -16,6 +16,10 @@ The aim of this list is to collect resources helpful to plan your next hike.
 
 ### Digital Elevation Models
 
+#### DEM Resources
+
+- [10 Sources to Download Free DEM – Digital Elevation Mode](http://monde-geospatial.com/%EF%BB%BF%EF%BB%BF10-sources-to-download-free-dem-digital-elevation-model/)
+
 #### DEM Utilities
 
 - [bopen/elevation](https://github.com/bopen/elevation) Python script to download global terrain digital elevation models
